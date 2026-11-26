@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://arfarell.github.io/sitemap.xml
+Disallow: /
